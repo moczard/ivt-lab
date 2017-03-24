@@ -1,6 +1,6 @@
 # IVT Spaceship
 
-This is a sample application for the [Integration and Verification Techniques](http://www.mit.bme.hu/oktatas/targyak/vimiac04) course at BME MIT. The application is simplified and deliberately contains bugs.
+conflict1 This is a sample application for the [Integration and Verification Techniques](http://www.mit.bme.hu/oktatas/targyak/vimiac04) course at BME MIT. The application is simplified and deliberately contains bugs.
 
 ## Getting started
 
@@ -35,3 +35,4 @@ The project represents an alpha version of a spaceship.
 - For the GT4500 ship the rules for firing torpedoes can be found in the Javadoc comment of method `fireTorpedos`. They are already partially implemented.
 - There are currently two tests (`GT4500Test`), but be aware that they are not proper unit tests, as they do not isolate the dependencies of the tested class.
 -test
+
